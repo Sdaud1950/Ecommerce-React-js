@@ -1,0 +1,68 @@
+.loginsingup{
+    width: 100%;
+    background: #fce3fe;
+    padding-top: 100px;
+}
+.loginsingup-conainer{
+    width: 325px;
+    height: 397px;
+   background:  #e1c2c2;
+    margin: auto;
+    padding: 40px 60px;
+}
+.loginsingup-conainer h1{
+    margin: 20px 0px;
+}
+
+.loginingup-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    margin-top: 30px;
+}
+.loginingup-fields{
+    /* height: 72px; */
+    width: 100%;
+    /* padding-left: 20px; */
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18px;
+}
+.loginsingup-conainer button{
+    width: 322px;
+    height: 32px;
+    color: white;
+    background: #ff4141;
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.Loginsinguo-login{
+    color: #5c5c5c;
+    font-family: 'circular';
+    display: flex;
+    margin-top: 18px;
+}
+.Loginsinguo-login span{
+    color: #ff4141;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.loginsinup-agree{
+    display: flex;
+    margin-top: 18px;
+    color: #5c5c5c;
+    
+}
+.loginsinup-agree p{
+    display: flex;
+    color: #5c5c5c;
+    margin-left: 11px;
+    font-family: 'circular';
+    
+
+}

@@ -1,0 +1,10 @@
+.Breadcrums{
+    display: flex;
+    margin-bottom: 24px;
+    padding: 13px;
+    gap: 5px;
+    padding-left: 37px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: serif;
+}
